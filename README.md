@@ -2,7 +2,7 @@
 # 📦 PicoClaw
 
 **Ultra‑Lightweight Personal AI Assistant in Go**
-Runs as a tiny AI agent on ultra‑low‑resource hardware — *under 10 MB of RAM and booting in ~1 second*, even on inexpensive boards. cite]([https://github.com/sipeed/picoclaw](https://github.com/sipeed/picoclaw))
+Runs as a tiny AI agent on ultra‑low‑resource hardware — *under 10 MB of RAM and booting in ~1 second*, even on inexpensive boards. 
 
 ---
 
